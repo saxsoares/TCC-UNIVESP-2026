@@ -16,8 +16,8 @@ auditoria_vies/resultados/*.npy
 
 # Arquivos intermediários e cópias de segurança
 tcc_extracted.txt
-*_backup_original.docx
-*_backup_original.pptx
+*_backup_*.docx
+*_backup_*.pptx
 
 # Sistema
 Thumbs.db
