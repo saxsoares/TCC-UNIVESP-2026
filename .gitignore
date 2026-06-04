@@ -1,0 +1,25 @@
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Dados e modelos (grandes; baixados externamente — ver auditoria_vies/README.md)
+data/
+models/
+auditoria_vies/resultados/*.npz
+auditoria_vies/resultados/*.npy
+
+# Arquivos intermediários e cópias de segurança
+tcc_extracted.txt
+*_backup_original.docx
+*_backup_original.pptx
+
+# Sistema
+Thumbs.db
+.DS_Store
+~$*

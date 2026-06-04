@@ -1,0 +1,15 @@
+{
+  "n_pairs": 6000,
+  "AUC": 0.991081,
+  "EER": 0.03716666666666668,
+  "EER_threshold": 0.15083849430084229,
+  "best_accuracy": 0.9685,
+  "best_threshold": 0.16690123081207275,
+  "threshold@FMR=1e-3": 0.25516751408576965,
+  "FMR@thr": 0.001,
+  "FNMR@thr": 0.10633333333333334,
+  "mean_sim_genuine": 0.4577479362487793,
+  "std_sim_genuine": 0.15439246594905853,
+  "mean_sim_impostor": 0.0333281047642231,
+  "std_sim_impostor": 0.06273287534713745
+}
